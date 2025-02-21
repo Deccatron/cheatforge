@@ -14,7 +14,7 @@ export default function FullScreenIframe() {
     return (
         <>
             <Head>
-                <title>Full Screen Iframe</title>
+                <title>CheatForge | Wait List</title>
             </Head>
             <iframe 
                 src="https://jolly-tone-931096.framer.app" 
